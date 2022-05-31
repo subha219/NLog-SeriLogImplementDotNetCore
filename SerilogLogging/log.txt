@@ -1,0 +1,21 @@
+﻿2022-05-31 15:03 DESKTOP-JP1EMFR 1 Application Started  
+2022-05-31 15:08 DESKTOP-JP1EMFR 1 Application Started  
+2022-05-31 15:09 DESKTOP-JP1EMFR 1 Application Started  
+2022-05-31 15:09 DESKTOP-JP1EMFR 1 Application Started  
+2022-05-31 15:15 DESKTOP-JP1EMFR 1 Application Started  
+2022-05-31 15:16 DESKTOP-JP1EMFR 1 Application Started  
+2022-05-31 15:16 DESKTOP-JP1EMFR 1 Application Started  
+2022-05-31 15:20 DESKTOP-JP1EMFR 1 Application Started  
+2022-05-31 15:21 DESKTOP-JP1EMFR 1 Application Started  
+2022-05-31 15:22 DESKTOP-JP1EMFR 1 Application Started  
+2022-05-31 15:23 DESKTOP-JP1EMFR 1 Application Started  
+2022-05-31 15:25 DESKTOP-JP1EMFR 1 Application Started  
+2022-05-31 15:26 DESKTOP-JP1EMFR 1 Application Started  
+2022-05-31 15:26 DESKTOP-JP1EMFR 1 Application started. Press Ctrl+C to shut down.  
+2022-05-31 15:26 DESKTOP-JP1EMFR 1 Hosting environment: "Development"  
+2022-05-31 15:26 DESKTOP-JP1EMFR 1 Content root path: "C:\Users\Subhajit\source\repos\SerilogLogging\SerilogLogging"  
+2022-05-31 15:26 DESKTOP-JP1EMFR 5 Request starting HTTP/1.1 GET http://localhost:63251/    
+2022-05-31 15:26 DESKTOP-JP1EMFR 5 Executing endpoint '"/ HTTP: GET"'  
+2022-05-31 15:26 DESKTOP-JP1EMFR 5 Executed endpoint '"/ HTTP: GET"'  
+2022-05-31 15:26 DESKTOP-JP1EMFR 5 Request finished in 88.9526ms 200   
+2022-05-31 15:27 DESKTOP-JP1EMFR 1 Application Started  
